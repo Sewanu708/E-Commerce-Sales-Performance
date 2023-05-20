@@ -73,7 +73,9 @@ opportunities for growth, you are to provide answers to the business questions b
 #### How does this impact sales performance?
 ###### Impact on Sales Performance of Products with least average ratings
 <img width="468" alt="Annotation 2023-05-20 020430" src="https://github.com/Sewanu708/E-Commerce-Sales-Performance/assets/99955484/dd54738c-6d82-480b-ad15-f088d8b1e332">
+
 ###### Impact on Sales Performance of Products with most average ratings
+
 <img width="424" alt="Annotation 2023-05-20 020641" src="https://github.com/Sewanu708/E-Commerce-Sales-Performance/assets/99955484/9d1f52fa-e3f2-448d-b21c-7bd3a567aa81">
 
 ### What is the average order cancellation rate on Olist, and how does this impact seller performance?.
